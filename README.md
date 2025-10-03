@@ -4,6 +4,7 @@
 
 ## Integrante
 Erick Rodrigues Tavares  
+Otavio Augusto de Souza Silva
 
 ## Descrição
 Este repositório contém o relatório referente a tarefa "Programação Linux".
