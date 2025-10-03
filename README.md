@@ -2,7 +2,7 @@
 
 **Curso:** Engenharia de Controle e Automação 
 
-## Integrante
+## Integrantes
 Erick Rodrigues Tavares  
 Otavio Augusto de Souza Silva
 
